@@ -1,3 +1,5 @@
+<details>
+  <summary>README.md file</summary>
 
 **Что такое README.md?**
 
@@ -46,4 +48,8 @@ README — это текстовый файл , который представ�
 ![image alt](https://github.com/haydarsho/Softclub/blob/66d47f7f71f98b23bc7e6ef5d6b0d6d98bbbfa9c/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-21%20150647.png)
   
 </details>
+
+</details>
+
+
 
