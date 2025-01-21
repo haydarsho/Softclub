@@ -77,7 +77,18 @@ Git — это бесплатная распределенная система 
 
 </details>
 
-
-  
 </details>
 
+<details>
+  <summary>github in README.md</summary>
+
+What is README.md in GitHub?
+
+When you create a repository or a project, GitHub gives you the option of a default readme. The default readme file contains the repository name and some basic instructions. The file format is 'md', which stands for Markdown documentation. It is a lightweight markup language that can be easily converted to text
+
+![image alt]()
+
+What does README do in GitHub?
+You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it.
+  
+</details>
