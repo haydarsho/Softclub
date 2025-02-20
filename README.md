@@ -30,7 +30,7 @@ Git — это бесплатная распределенная система 
 
 
 <details>
-  <summary>github in README.md</summary>
+  <summary>Github in README.md</summary>
 
 **What is README.md in GitHub?**
 
